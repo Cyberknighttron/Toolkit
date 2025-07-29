@@ -95,7 +95,7 @@ snippet --view
 modmap cpp myfile.cpp
 
 ### Run cleanup for logs, tmp, cache-
-cleanup
+cleanup basic|full
 
 #  Uninstall
 To uninstall Toolkit:
