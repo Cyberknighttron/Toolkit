@@ -1,0 +1,11 @@
+[Unit]
+Description=Toolkit Reminder Daemon
+After=default.target
+
+[Service]
+ExecStart=%h/toolkit/reminder-daemon.sh
+Restart=always
+
+[Install]
+WantedBy=default.target
+
