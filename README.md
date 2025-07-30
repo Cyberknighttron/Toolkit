@@ -67,6 +67,7 @@ systemctl --user enable reminder-daemon.service
 systemctl --user start reminder-daemon.service
 
 Note: You must have systemd running and user session support (systemctl --user) for this to work.
+--
 Note: The Reminder might not work properly or will break down
 
 # Usage Examples-
