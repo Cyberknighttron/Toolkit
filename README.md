@@ -1,6 +1,6 @@
 #  Toolkit
 
-**Toolkit** is a modular, Linux-native command-line productivity suite designed for developers and power users. It includes multiple handy tools like quick code runners, reminders with background daemon support, modmap generators for different languages, snippet managers, and cleanup utilities — all in one repo.
+**Toolkit** is a modular, Linux-native command-line productivity suite designed for developers and power users. It includes multiple handy tools like quick code runners, reminders with background daemon support, modmap generators for different languages, snippet managers, and cleanup utilities all in one repo.
 
 ---
 
